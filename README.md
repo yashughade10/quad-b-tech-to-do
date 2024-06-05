@@ -34,4 +34,4 @@
 ![Desktop View](./src/assets/desktop-view-to-do-list.png)
 
 ## Live Demo
-[Live Demo URL](https://quad-b-tech-to-do-list.vercel.app/login)
+[Live Demo URL](https://quad-b-tech-to-do-list.vercel.app/)
