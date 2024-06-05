@@ -24,8 +24,8 @@
 
 ### Screenshots
 #### Mobile View
-![Mobile View](./src/assets/mobile-view-ro-do-list.png)
 ![Mobile View](./src/assets/mobile-login-view.png)
+![Mobile View](./src/assets/mobile-view-ro-do-list.png)
 
 #### Tablet View
 ![Tablet View](./src/assets/tab-view-to-do-list.png)
