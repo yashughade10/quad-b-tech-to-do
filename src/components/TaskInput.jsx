@@ -27,6 +27,8 @@ const TaskInput = () => {
             dispatch(addTask({ ...newTask, user }));
             setTask('');
             setActivityType('');
+        } else if (!activityType) {
+            alert('Activity field is mandatory');
         }
     };
 
