@@ -22,5 +22,16 @@
 - Weather data integration
 - User authentication
 
+### Screenshots
+#### Mobile View
+![Mobile View](./src/assets/mobile-view-ro-do-list.png)
+![Mobile View](./src/assets/mobile-login-view.png)
+
+#### Tablet View
+![Tablet View](./src/assets/tab-view-to-do-list.png)
+
+#### Desktop View
+![Desktop View](./src/assets/desktop-view-to-do-list.png)
+
 ## Live Demo
-[Live Demo URL](https://your-vercel-project-url.vercel.app/)
+[Live Demo URL](https://quad-b-tech-to-do-list.vercel.app/login)
